@@ -1,0 +1,3 @@
+**Gamma-hydroxybutyric acid, or GHB** is a depressant drug that is often used for its ability to counteract the stimulating high from Tina.
+
+that is often used alongside [[Methamphetamine|Tina]] for its counterbalancing effects, helping to take the edge off of T. It produces feelings of disinhibition, relaxation, euphoria, confidence, and increased libido—all properties that make it attractive for party and play. It can be thought of as the "main" substance in the trio, since both GBL and BDO are ultimately converted into GHB by your liver. It comes in the form of a colorless and odorless liquid that may have a slight salty or "soapy" taste.
