@@ -1,0 +1,15 @@
+
+- 📁 Intro
+	- [[Who this site is for]]
+	- [[Putting Chemsex in Context]]
+	- [[Intro to Harm Reduction]]
+- 📁 Substances
+	- [[Methamphetamine]]
+	- [[GHB, GBL and BDO]]
+	- [[Erectile dysfunction medications (Viagra, Cialis)]]
+	- [[Poppers]]
+	- [[Maximum Impact]]
+	- [[MDMA/Ecstasy]]
+	- [[Cocaine]]
+	- [[Ketamine]]
+	- 
