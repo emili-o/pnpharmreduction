@@ -32,8 +32,9 @@ GHB and its prodrugs, GBL and 1,4-butanediol (BD). While the latter two are ulti
 
 G comes in the form of a liquid and is typically dosed in milliliters. An oral syringe with precise markings is ideal, rather than something like a plastic pipette. 
 
-While each of these three substances should be dosed differently due to their varying potencies, all of them are known for their slim safety margin. Basically, the difference between a great time and ruined night (or even death) can be as little as .1-.2 mL. 
+While each of these three substances should be dosed differently due to their varying potencies, all of them are known for their slim safety margin. Basically, the difference between a great time and ruined night (or even death) can be as little as .1-.2 mL.
 
+![[GHB has a biphasic effect on dopamine receptors]]
 
 > [!warning] Tips for Safer Dosing
 > 1. Start with a smaller test dose, especially if you're trying out a new batch. Different batches are diluted differently. Additionally, your reaction will be influenced by factors like how much sleep you've had, when you last ate, and the presence of other substances in your body.
