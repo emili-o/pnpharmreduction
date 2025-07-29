@@ -1,7 +1,15 @@
+---
+status: started
+---
 ![[Methamphetamine.png]]
 ## What is it?
 
-**Methamphetamine** (_N_-methylamphetamine) is a potent stimulant that is commonly sold on the street in its crystallized form.
+**Methamphetamine** (_N_-methylamphetamine) is a potent [[Glossary#^qst52l|stimulant]] that is commonly sold on the street in its crystallized form.
+
+It can be consumed orally, snorted, smoked (technically it's vaporized), booty bumped, or injected.
+
+> [!info] Also known as
+> Tina, T, crystal, ice, shards, speed, glass, 🧊
 
 > [!info]- How is meth different from Adderall (amphetamine)?
 > Meth belongs to the amphetamine class of stimulant drugs, and the two substances have very similar structures and share many of the same subjective effects when consumed.
