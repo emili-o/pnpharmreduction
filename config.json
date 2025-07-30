@@ -1,16 +1,27 @@
 {
-  "showSidebar": true
-}
-{
   "nav": {
+    "logo": "logo.jpeg",
+    "title": "My Digital Garden",
     "links": [
       {
-        "href": "/Start Here",
-        "name": "Start Here"
+        "href": "/start_here",
+        "name": "Start here"
       },
       {
         "href": "/about",
         "name": "About"
+      }
+    ],
+    "social": [
+      {
+        "label": "github",
+        "name": "GitHub Profile",
+        "href": "https://github.com/yourusername"
+      },
+      {
+        "label": "twitter",
+        "name": "Follow me on Twitter",
+        "href": "https://twitter.com/yourusername"
       }
     ]
   }
