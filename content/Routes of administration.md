@@ -8,7 +8,7 @@ tags:
   - drugs
 publish: true
 ---
-The way that a drug is consumed, also known as the **route of administration** (ROA), can greatly influence how it affects someone. Some drugs can only be effectively administered via one or two ROAs, like [[GHB, GBL and BDO]]. Other drugs offer many options for administration, as is the case with [[Methamphetamine|meth]].
+The way that a drug is consumed, also known as the **route of administration** (ROA), can greatly influence how it affects someone. Some drugs can only be effectively administered via one or two ROAs, like [[GHB, GBL and BDO|GHB, GBL and BDO]]. Other drugs offer many options for administration, as is the case with [[Methamphetamine|meth]].
 
 First, let's look at the properties of a drug's effects that are influenced by the ROA:
 - **Bioavailability** — This term describes the amount of a drug that actually reaches circulation in the body.
