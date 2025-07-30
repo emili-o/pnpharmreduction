@@ -6,7 +6,7 @@ tags:
   - drugs
 publish: true
 ---
-![[Methamphetamine.png]]
+![[Methamphetamine.png|Methamphetamine.png]]
 ## What is it?
 
 **Methamphetamine** (_N_-methylamphetamine) is a potent [[Glossary#^qst52l|stimulant]] that is commonly sold on the street in its crystallized form.
@@ -35,7 +35,7 @@ It is related to amphetamine, but its slight structural difference makes it more
 
 | **Common names**                 |     |
 | -------------------------------- | --- |
-| **[[Routes of administration]]** |     |
+| **[[Routes of administration|Routes of administration]]** |     |
 
 
 ## What are its effects?
