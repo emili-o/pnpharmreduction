@@ -1,3 +1,17 @@
 {
   "showSidebar": true
 }
+{
+  "nav": {
+    "links": [
+      {
+        "href": "/Start Here",
+        "name": "Start Here"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ]
+  }
+}
